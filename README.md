@@ -48,5 +48,5 @@ I am passionate about building scalable, efficient, and user-friendly systems. M
 ## Contact
 
 - **Email**: [djafthy@gmail.com](mailto:djafthy@gmail.com)  
-- **Phone**: +258848404231
+- **Phone**: [+258848404231](tel:+258848404231)
 - **LikedIn**: [djafta](https://linkedin.com/in/djafta)
