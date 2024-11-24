@@ -9,26 +9,36 @@ I am passionate about building scalable, efficient, and user-friendly systems. M
 
 ## Experience
 
-- Designed and developed custom software solutions tailored to specific client needs, improving system efficiency and performance.
+- **National Professional Education Authority** – Consultant  
+  *Sept 2023 – Present*  
+  - Analyzed and assessed system needs and performance  
+  - Developed custom solutions and managed project design  
+  - Led training sessions on ICT and cybersecurity
   
-- Led system assessments and integrations, including the development of personalized solutions and managing projects from concept to implementation.
-  
-- Created and optimized cloud infrastructures, enhancing scalability and performance, and integrated automation tools to improve developer workflows.
-  
-- Developed and integrated SmartContracts with RESTful and GraphQL APIs, building blockchain ecosystems for cryptocurrency operations (e.g., Swap, Pressale, Exchange).
-  
-- Built and maintained e-commerce platforms, focusing on frontend development (ReactJS, VueJS) and backend integration.
-  
-- Authored technical documentation and guides for system setups, deployment, and usage, ensuring clarity for both users and developers.
-  
-- Led training sessions on information and communication technologies, cybersecurity, and programming best practices.
+- **Quidgest Software Plant** – Analyst  
+  *June 2023 – Sept 2023*  
+  - Developed and optimized cloud infrastructures  
+  - Integrated Genio code generation tool with ReactJS and VueJS  
+  - Authored documentation and installation guides
+
+- **Blockchain – Brazil** – Programmer  
+  *May 2021 – Aug 2022*  
+  - Led development of SmartContracts and integrated APIs  
+  - Built cryptocurrency ecosystems (Swap, Pressale, Exchange)  
+  - Integrated digital currencies with e-commerce platforms
+
+- **Freelancer** – Programmer  
+  *Dec 2016 – June 2023*
+  - Creation of static and dynamic websites and desktop applications.
+  - Developed and maintained e-commerce sites and web applications
+  - Creation of development tools
 
 ## Skills
 
-- **Languages**: `Java`, `C#`, `JavaScript`, `TypeScript`, `PHP`, `SQ`L, `C/C++` and `Rust`  
-- **Frameworks**: `React`, `NextJS`, `Spring`, `Hibernate`, `Laravel` and `Prisma`
-- **Technologies**: `Blockchain`, `Cybersecurity`, `Cloud Infrastructure`  
-- **Tools**: `Git`, `GitHub`, `AWS`, `DevOps`
+- **Languages**: Java, C#, JavaScript, TypeScript, PHP, SQL  
+- **Frameworks**: React, NextJS, Spring, Hibernate, Laravel  
+- **Technologies**: Blockchain, Cybersecurity, Cloud Infrastructure  
+- **Tools**: Git, GitHub, AWS, DevOps
 
 ## Education
 
